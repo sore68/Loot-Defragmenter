@@ -1,0 +1,11 @@
+Factorio API
+  http://lua-api.factorio.com/latest/
+
+Factorio FORUMS
+  https://forums.factorio.com/index.php
+
+Factorio MDOS
+  https://mods.factorio.com/
+
+Factorio MDOS - loot defragmenter
+  https://mods.factorio.com/mods/sore68/Loot-Defragmenter
